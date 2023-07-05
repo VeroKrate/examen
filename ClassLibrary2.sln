@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2.csproj", "{7137ECE7-AF90-4A90-919A-2E1153FB30F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "КвалЕкзамен_Ефимова", "..\КвалЕкзамен_Ефимова\КвалЕкзамен_Ефимова.csproj", "{D773FEBA-6DE1-46B4-8AF3-0AAA31D093FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7137ECE7-AF90-4A90-919A-2E1153FB30F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7137ECE7-AF90-4A90-919A-2E1153FB30F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7137ECE7-AF90-4A90-919A-2E1153FB30F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7137ECE7-AF90-4A90-919A-2E1153FB30F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D773FEBA-6DE1-46B4-8AF3-0AAA31D093FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D773FEBA-6DE1-46B4-8AF3-0AAA31D093FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D773FEBA-6DE1-46B4-8AF3-0AAA31D093FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D773FEBA-6DE1-46B4-8AF3-0AAA31D093FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6D33522-98AA-4A80-BCFB-1EB142005ED3}
+	EndGlobalSection
+EndGlobal
